@@ -11,7 +11,7 @@ VALUES
     ('Shallan', 'Davar', 1),
     ('Kalladin', 'Stormblessed', 1),
     ('Teft', 'Notblessed', 1),
-    ('Moah', 'Traitor', 0),
+    ('Moash', 'Traitor', 0),
     ('Taravangian', 'Manic', 0);
 
     UPDATE candidates
