@@ -6,6 +6,8 @@
 
 ## Description
 
+Welcome to u-develop-it a Back End App used to keep track of party candidates.
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -37,4 +39,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author
 
+Hello! My name's David. This project was built while following a tutorial at [University of Arizona's Coding Bootcamp](https://bootcamp.ce.arizona.edu/coding/). <br>
+If you're interested in seeing my work click [here](http://mighty-brook-32674.herokuapp.com/) to view my portfolio.<br>
+You can email me at dwhipp88@gmail.com.
+
 ## Badges
+
+![express](https://img.shields.io/badge/express-4.17.1-orange)
+![mysql2](https://img.shields.io/badge/mysql2-2.3.0-orange)
+![javascript](https://img.shields.io/badge/language-javascript-orange)
